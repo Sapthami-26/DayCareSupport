@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayCareSupportAPI", "DayCareSupportAPI.csproj", "{DF0021D0-BA72-8A09-E889-CCD6B5875C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0021D0-BA72-8A09-E889-CCD6B5875C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0021D0-BA72-8A09-E889-CCD6B5875C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0021D0-BA72-8A09-E889-CCD6B5875C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0021D0-BA72-8A09-E889-CCD6B5875C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99F4871-2A4F-430A-AD2A-4705C8A53AF4}
+	EndGlobalSection
+EndGlobal
