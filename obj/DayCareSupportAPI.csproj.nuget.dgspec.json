@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DayCareSupportAPI\\DayCareSupportAPI.csproj": {}
+    "D:\\Samsung\\DayCareSupportAPI\\DayCareSupportAPI.csproj": {}
   },
   "projects": {
-    "D:\\DayCareSupportAPI\\DayCareSupportAPI.csproj": {
+    "D:\\Samsung\\DayCareSupportAPI\\DayCareSupportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DayCareSupportAPI\\DayCareSupportAPI.csproj",
+        "projectUniqueName": "D:\\Samsung\\DayCareSupportAPI\\DayCareSupportAPI.csproj",
         "projectName": "DayCareSupportAPI",
-        "projectPath": "D:\\DayCareSupportAPI\\DayCareSupportAPI.csproj",
+        "projectPath": "D:\\Samsung\\DayCareSupportAPI\\DayCareSupportAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DayCareSupportAPI\\obj\\",
+        "outputPath": "D:\\Samsung\\DayCareSupportAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,6 +62,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
